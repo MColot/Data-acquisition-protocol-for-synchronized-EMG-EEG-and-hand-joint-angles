@@ -1,0 +1,1 @@
+# Data-acquisition-protocol-for-synchronized-EMG-EEG-and-hand-joint-angles
