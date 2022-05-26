@@ -205,9 +205,7 @@ def regressionTests(X, Y, processData=lambda xtrain, xtest, ytrain: (xtrain, xte
 if __name__ == "__main__":
     arg = sys.argv
     DATA_FOLDER_PATH = ""
-    if len(arg) < 2:
-        quit()
-    else:
+    if len(arg) == 2:
         DATA_FOLDER_PATH = arg[1]
 
     print("TEST  using tdf")

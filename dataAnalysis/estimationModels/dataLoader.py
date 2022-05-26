@@ -39,7 +39,6 @@ def loadData(dataFolderPath, hands=(0, 1), datasetType=("sign", 5), labelType=0,
     for subFolder in os.listdir(dataFolderPath):
         if os.path.isdir(os.path.join(dataFolderPath, subFolder)):
             DATASET_NAMES.append(subFolder)
-            break
     X = []
     Y = []
 
