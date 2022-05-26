@@ -78,7 +78,7 @@ Folder to place the dataset.
 A complete dataset with EMG and hand motion capture can be downloaded here: https://drive.google.com/file/d/1pk_411pesnBrRCL7dEQdw7fxRfBiuYXa/view?usp=sharing
 
 
-# Example videos of the result of a regression model:
+# Example videos of the result of a regression model
 Trained and tested on predefined gestures: 
 https://drive.google.com/file/d/1JH87kokogjNDcUKaud-QX5BTCLn_0FgL/view?usp=sharing
 
