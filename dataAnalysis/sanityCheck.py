@@ -112,6 +112,7 @@ def tryClassification(dataset):
 if __name__ == "__main__":
     arg = sys.argv
     if len(arg) < 3:
+        print("You must give the path to the folder containing the data to check and the base name of the files (motion capture: [name]Quest.csv, EMG: [name].c3d")
         quit()
 
     foldername = arg[1]
