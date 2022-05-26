@@ -3,18 +3,20 @@ This work is the result of the Master thesis in computer science of Martin Colot
 
 ULB: https://www.ulb.be/en
 
-MLG: https://mlg.ulb.ac.be/wordpress/
+MLG: https://mlg.ulb.ac.be/wordpress
 
 LNMB: https://www.cheron.be/lnmb_info.html
 
 ## Dataset
+
+A dataset containing 15 subjects with synchronized EMG and hand motion capture during 2 different tasks.
 
 Download EMG-joint angles dataset: https://drive.google.com/file/d/1pk_411pesnBrRCL7dEQdw7fxRfBiuYXa/view?usp=sharing
 
 ## Structure of the repository
 
 ### dataAcquisition
-Code and protocols descriptions for the acquisition of synchronized data. The types of data that can be collected are
+Code for the acquisition of synchronized data. The types of data that can be collected are
 - motion capture of the 2 hands
 - EMG of the 2 forearms
 - EEG
@@ -56,9 +58,9 @@ https://drive.google.com/file/d/12d8S_mZ174Nj0abKAri2mnYk3f-vHLeS/view?usp=shari
 
 
 
+![ulb](https://www.ulb.be/uas/ulbout/LOGO/Logo-ULB.svg)
 
-
-
+![mlg](https://mlg.ulb.ac.be/wordpress/wp-content/uploads/2018/05/MLG-oldQ256.png)
 
 
 
